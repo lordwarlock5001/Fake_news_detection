@@ -11,4 +11,4 @@ pip install matplotlib<br />
 # Screenshots
 <img src="output.PNG"><br />
 <img src="bar.png"><br />
-<img src="confusion_matrix.PNG>
+<img src="confusion_matrix.PNG">
