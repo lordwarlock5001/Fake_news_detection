@@ -7,3 +7,5 @@ pip install numpy<br />
 pip install sklearn<br />
 pip install tkinter<br />
 pip install matplotlib<br />
+
+<img src="bar.png">
