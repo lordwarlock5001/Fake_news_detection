@@ -1,7 +1,7 @@
 # Fake_news_detection
 
 
-#packages
+# packages
 pip install pandas
 pip install numpy
 pip install sklearn
