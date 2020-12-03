@@ -2,7 +2,7 @@
 
 
 #packages
-pip install pandas\n
+pip install pandas
 pip install numpy
 pip install sklearn
 pip install tkinter
