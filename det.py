@@ -29,7 +29,7 @@ def train():
     true_data=true_data.count()
     print(true_data)
     true_data.plot(kind='bar')
-    plt.title("Title")
+    plt.title("Bar Chart")
     #plt.show()
     plt.savefig("bar.png")
     print("----Start Training------")
