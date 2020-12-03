@@ -24,3 +24,8 @@ pip install matplotlib<br />
 <img src="output.PNG"><br />
 <img src="bar.png"><br />
 <img src="confusion_matrix.PNG">
+
+# Dataset which i have used
+<a href="https://www.kaggle.com/c/fake-news/data">
+Here is full dataset(from kaggle)
+</a>
