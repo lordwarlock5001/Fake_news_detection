@@ -26,20 +26,20 @@ pip install matplotlib<br />
 <img src="confusion_matrix.PNG">
 
 # Dataset which i have used
-<a href="https://www.kaggle.com/c/fake-news/data">
+<a href="https://www.kaggle.com/c/fake-news/data" target="_blank">
 Here is full dataset(from kaggle)
 </a>
 
 # References
 <ol>
 <li>
-<a href="https://medium.com/swlh/detecting-fake-news-with-python-and-machine-learning-f78421d29a06">
+<a href="https://medium.com/swlh/detecting-fake-news-with-python-and-machine-learning-f78421d29a06" target="_blank">
 Detecting Fake News With Python And Machine Learning
 </a>
 </li>
 <br />
 <li>
-<a href="https://www.sciencedirect.com/science/article/pii/S1877050918318210">
+<a href="https://www.sciencedirect.com/science/article/pii/S1877050918318210" target="_blank">
 Detecting Fake News in Social Media Networks
 </a>
 </li>
