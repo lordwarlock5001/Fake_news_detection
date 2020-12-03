@@ -2,8 +2,8 @@
 
 
 # packages
-pip install pandas
-pip install numpy
-pip install sklearn
-pip install tkinter
-pip install matplotlib
+pip install pandas<br />
+pip install numpy<br />
+pip install sklearn<br />
+pip install tkinter<br />
+pip install matplotlib<br />
